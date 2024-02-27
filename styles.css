@@ -1,0 +1,26 @@
+body {
+    background-color:orchid;
+}
+
+h1 {
+    color: black
+}
+img {
+    height: 300px;
+    width: 300px;
+}
+
+
+section {
+    background-color:blueviolet
+}
+
+ol > li {
+    color:black;
+}
+.column {
+    float:left;
+    width: 50%;
+    margin: 50px;
+    padding: 20px;
+}
